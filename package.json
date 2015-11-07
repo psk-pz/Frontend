@@ -5,6 +5,7 @@
   "license": "MIT",
   "repository": "https://github.com/psk-pz/Frontend",
   "dependencies": {
-    "bower": "^1.6.5"
+    "bower": "^1.6.5",
+    "grunt": "^0.4.5"
   }
 }
