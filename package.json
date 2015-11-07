@@ -1,0 +1,10 @@
+{
+  "name": "psk-pz",
+  "version": "0.1.0",
+  "author": "Daniel Iwaniec, Artur Kałuża, Karol Gos, Karol Gołuch",
+  "license": "MIT",
+  "repository": "https://github.com/psk-pz/Frontend",
+  "dependencies": {
+    "bower": "^1.6.5"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "psk-pz",
+  "version": "0.1.0",
+  "author": "Daniel Iwaniec, Artur Kałuża, Karol Gos, Karol Gołuch",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
